@@ -16,7 +16,7 @@ Feel free to use these slides for educational purposes, presentations, or simply
 
 ## Contributing
 
-If you have any suggestions, improvements, or additional content to contribute, feel free to contact me at [your-email@example.com](mailto:bhavyawithcode@gmail.com). Your contributions are highly appreciated! 🙌🎉
+If you have any suggestions, improvements, or additional content to contribute, feel free to contact me at [bhavyawithcode@gmail.com](mailto:bhavyawithcode@gmail.com). Your contributions are highly appreciated! 🙌🎉
 
 ---
 
